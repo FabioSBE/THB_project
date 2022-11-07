@@ -1,0 +1,582 @@
+    1  sudo mysql -u dani -p
+    2  sudo mysql -u root -p
+    3  sudo mysql -u dani -p
+    4  ps a
+    5  which echo
+    6  ssh
+    7  ls
+    8  cd /tmp
+    9  ls
+   10  cat b.txt
+   11  tail -f a.txt
+   12  free | grep Mem
+   13  free
+   14  cd /tmp
+   15  free > a.txt
+   16  history
+   17  cd /tmp
+   18  ls
+   19  touch a.txt
+   20  cat a.txt
+   21  touch b.txt
+   22  ls
+   23  cat b.txt
+   24  history > touch b.txt
+   25  history > b.txt
+   26  cat b.txt
+   27  cd
+   28  cat b.txt
+   29  cat /tmp/b.txt
+   30  sudo mysql -u root -p
+   31  sudo mysql -u fabio -r
+   32  sudo mysql -u fabio -p
+   33  cat b.txt
+   34  sudo mysql -u fabio -p
+   35  sudo mysql -u root -p
+   36  sudo mysql -u dani -p
+   37  sudo mysql -u root -p
+   38  cd ..
+   39  ls -la
+   40  cd ~/.mysql/
+   41  ls
+   42  cd
+   43  cd ~/.mysql_history
+   44  cd ..
+   45  cd ~/.mysql_history
+   46  less ~/.mysql_history
+   47  cd /tmp
+   48  ls -l
+   49  cat logfile.log
+   50  sudo cat logfile.log
+   51  cd ..
+   52  ls
+   53  ls -l
+   54  cd
+   55  ls -l
+   56  cd ~/Documents/
+   57  ls
+   58  pwd
+   59  cd ..
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd /home
+   64  ls
+   65  cd .
+   66  cd ..
+   67  ls
+   68  cd /tmp
+   69  ls
+   70  sudo cat mysql_logfile.log
+   71  sudo cat logfile.log
+   72  cd ..
+   73  cd/var/run/mysqld/
+   74  cd /var/run/mysqld/
+   75  ls
+   76  cd ..
+   77  ls
+   78  cd /var/run/sudo
+   79  ls
+   80  sudo ls
+   81  sudo ts
+   82  sudo ls -l
+   83  sudo cat ts
+   84  cd /ts
+   85  cd ./ts
+   86  ls
+   87  sudo ls-l
+   88  sudo ls -l
+   89  cd
+   90  cd ..
+   91  cd .
+   92  cd ..
+   93  ls -l
+   94  cd /var
+   95  ls
+   96  cd /backup
+   97  cd /backups
+   98  cd /backupsls 
+   99  ls -l
+  100  cd ./backupsls 
+  101  cd ~/backupsls 
+  102  cd ~/backps 
+  103  cd ./backups 
+  104  ls
+  105  cd ..
+  106  ls
+  107  cd ..
+  108  ls
+  109  cd /usr
+  110  ls
+  111  sudo mkdir mysql_logs
+  112  ls
+  113  cd ./mysql_logs/
+  114  ls
+  115  ped
+  116  pwd
+  117  poweroff
+  118  sudo systemctl status mysql
+  119  sudo mysql -u root -p
+  120  sudo systemctl stop mysql
+  121  sudo systemctl status mysql
+  122  sudo systemctl start mysql
+  123  sudo systemctl status mysql
+  124  sudo mysql -u root -p
+  125  sudo mysql -u fabio -p
+  126  sudo mysql -u root -p
+  127  sudo mysql -u fabio -p
+  128  sudo mysql -u root -p
+  129  sudo mysql -u fabio -p
+  130  sudo mysql -u fabio@192.168.0.141 -p
+  131  sudo mysql -h fabio -p
+  132  sudo mysql -h fabio@192.168.0.141 -p
+  133  sudo mysql -u root -p
+  134  cd /tmp
+  135  ls
+  136  ls -l
+  137  nano a.txt
+  138  cat a.txt 
+  139  nano a.txt
+  140  sudo mysql -u root -p
+  141  free
+  142  curl cht.sh/fre
+  143  free -g 2
+  144  free -g
+  145  free -m
+  146  free -s 2
+  147  free -ms 2
+  148  free
+  149  free -m
+  150  top
+  151  sudo systemctl stop mysql
+  152  top
+  153  free -m
+  154  pstree -p
+  155  pstree -p | grep mysql
+  156  curl cht.sh/kill
+  157  sudo kill 4272
+  158  pstree -p | grep mysql
+  159  sudo kill 4274
+  160  pstree -p | grep mysql
+  161  top
+  162  free -m
+  163  sudo apt install git
+  164  git --version
+  165  mysql --version
+  166  free -m
+  167  git config --global user.name "FabioSBE"
+  168  git config --global user.email "fabiofreirediniz@gmail.com"
+  169  git config --list 
+  170  ls -ls
+  171  ls -la
+  172  cat .bash_history 
+  173  ls -la
+  174  nano .gitconfig 
+  175  mkdir github_repository
+  176  cd github_repository/
+  177  cd
+  178  cd github_repository/
+  179  ls
+  180  git clone https://github.com/FabioSBE/MyFirst.git
+  181  git remote add origin https://github.com/FabioSBE/MyFirst.git
+  182  git remote add MyFirt https://github.com/FabioSBE/MyFirst.git
+  183  touch a.txt
+  184  nano a.txt
+  185  git init
+  186  ls
+  187  git config --global init.defaultBranch Learn
+  188  git branch 
+  189  git init
+  190  ls
+  191  ls -la
+  192  git status
+  193  git add .
+  194  git status
+  195  git commit -m "first commit"
+  196  git branch -M Learn
+  197  git remote add origin https://github.com/FabioSBE/MyFirst.git
+  198  git push -u origin Learn
+  199  poweroff
+  200  sudo apt update
+  201  top
+  202  sudo systemctl stop mysql
+  203  top
+  204  curl cht.sh/git
+  205  git master
+  206  git --help
+  207  git init
+  208  ls -la
+  209  cd .git
+  210  ls
+  211  ls -la
+  212  which git
+  213  git --version
+  214  cd /usr/share/gnome-shell/
+  215  ls
+  216  ls -la
+  217  /etc/lightdm/
+  218  cd/
+  219  cd\
+  220  cd
+  221  cd /etc/lightdm/
+  222  cd /etc/
+  223  ls
+  224  cd /etc/lightdm/
+  225  cd
+  226  ls -la
+  227  ls -l
+  228  ls -la
+  229  cd ./
+  230  cd .git
+  231  ls
+  232  cd
+  233  rm .git
+  234  rm -r .git
+  235  ls -la
+  236  cd ~/github_repository/
+  237  ls
+  238  git init ~/github_repository/
+  239  ls
+  240  ls -la
+  241  cd .git
+  242  ls
+  243  cd
+  244  git --help
+  245  git branch
+  246  ls
+  247  git branch ~/github_repository/
+  248  git branch ~/github_repository/.git/
+  249  cd ~/github_repository/
+  250  git status
+  251  ls
+  252  git add .
+  253  git status
+  254  gedit a.txt 
+  255  ls -la
+  256  git init
+  257  git status
+  258  git status -sb
+  259  cd/
+  260  curl cht.sh/git
+  261  git branch
+  262  cd ~/github_repository/.git/
+  263  git branch
+  264  git status
+  265  cd ..
+  266  git status
+  267  git commit -m "o segundo"
+  268  git add .a.txt
+  269  git add a.txt
+  270  git status
+  271  git branch -u origin/master
+  272  git branch -u origin/Learn
+  273  git branch -u Learn
+  274  cd
+  275  ls -la
+  276  rm -r ~/github_repository/
+  277  rm -r ~/github_repository/ -y
+  278  rm -r ~/github_repository/
+  279  ls -la
+  280  mkdir ~/repo_teste
+  281  cd ~/repo_teste/
+  282  git init
+  283  echo "Lerning in progress" > a.txt
+  284  ls
+  285  git status
+  286  git clone https://github.com/FabioSBE/MyFirst.git
+  287  git status
+  288  git add .
+  289  git status
+  290  git config --global 
+  291  git config --list 
+  292  git commit -m "primeiro"
+  293  git status
+  294  git remore add origin https://github.com/FabioSBE/MyFirst.git
+  295  git remote add origin https://github.com/FabioSBE/MyFirst.git
+  296  git push -u origin master
+  297  git push -u origin Learn
+  298  cd ~/github_repository/
+  299  git branch -D Learn
+  300  histort
+  301  history
+  302  poweroff
+  303  reboot
+  304  python3 --version
+  305  python2 --version
+  306  pip
+  307  sudo apt install python3-pip
+  308  free
+  309  free -m
+  310  sudo apt install python3-pip
+  311  cd /var/lib/dpkg/
+  312  ls
+  313  ls -l
+  314  cat lock-frontend 
+  315  sudo cat lock-frontend 
+  316  sudo cat lock-frontend
+  317  sudo file lock-frontend
+  318  ps -aux
+  319  ps -aux | grep 4856
+  320  sudo apt upgrade
+  321  sudo kill 4856
+  322  ps -aux | grep 4856
+  323  sudo apt install python3-pip
+  324  python3-pip --version
+  325  phyton -m  pip --version
+  326  pip install jupyterlab
+  327  top
+  328  pip install notebook
+  329  sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+  330  sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6 -y
+  331  sudo apt update && sudo apt upgrade 
+  332  shasum info
+  333  curl cht.sh/shasum
+  334  free
+  335  free -m
+  336  ps aux
+  337  top
+  338  pstree -i | grep mysql
+  339  pstree -p | grep mysql
+  340  sudo kill 1110
+  341  top
+  342  pstree -p | grep mysql
+  343  ps aux | grep mysql
+  344  apt update
+  345  shashum -a 256 ~/Documents/Anaconda3-2022.05-Linux-x86_64.sh 
+  346  bash ~/Documents/Anaconda3-2022.05-Linux-x86_64.sh 
+  347  conda activate your_conda_env
+  348  coda
+  349  cd ~/Documents/ls -a
+  350  cd ~/Documents/ls -l
+  351  cd ~/Documents/
+  352  ls -a
+  353  ls -la
+  354  cd
+  355  ls -a
+  356  ls -la
+  357  cd anaconda3/
+  358  ls -la
+  359  conda
+  360  ./conda.exe
+  361  ./conda.exe list
+  362  ./conda.exe uninstall
+  363  conda uninstall
+  364  conda list
+  365  ./conda.exe list
+  366  ./conda.exe upgrade
+  367  coda help
+  368  conda help
+  369  ./conda.exe help
+  370  ./conda.exe -h
+  371  run
+  372  nano conda.exe 
+  373  gedit conda.exe 
+  374  cd
+  375  rm -rf ~/Documents/anaconda3
+  376  ls -la
+  377  rm -rf ~/Documents/anaconda3
+  378  la
+  379  rm -d ~/Documents/anaconda3
+  380  cd Documents/
+  381  rm -d ~/anaconda3/
+  382  ls -a
+  383  cd
+  384  cd anaconda3/
+  385  ls
+  386  cd
+  387  rm -r ~/anaconda3/
+  388  rm -r ~/anaconda3/ -y
+  389  rm -r ~/anaconda3/ 
+  390  ls -la
+  391  reboot
+  392  sudo apt update
+  393  cd anaconda3/
+  394  ls
+  395  cd envs/
+  396  ls
+  397  ls -la
+  398  cd ..
+  399  ls -la
+  400  file /.bashrc
+  401  file .bashrc
+  402  nano .bashrc 
+  403  pwd
+  404  cd anaconda3/
+  405  ls -la
+  406  conda
+  407  conda init
+  408  conda install anaconda-clean
+  409  cd
+  410  /.bashrc
+  411  .bashrc
+  412  /.bashrc conda install anaconda-clean
+  413  cd anaconda3/
+  414  ls -la
+  415  cd bin
+  416  ls -la
+  417  cd
+  418  nano .bashcr
+  419  la -la
+  420  nano .bashrc
+  421  conda init
+  422  shashum -a 256 ~/Documents/Anaconda3-2022.05-Linux-x86_64.sh
+  423  bash ~/Documents/Anaconda3-2022.05-Linux-x86_64.sh
+  424  conda init
+  425  conda --version
+  426  conda create --name fungo biopython
+  427  conda activate fungo
+  428  conda deactivate
+  429  conda activate fungo
+  430  conda update -n base -c defaults conda
+  431  python --version
+  432  conda info --envs
+  433  conda create --name snakes python=3.9
+  434  conda active snakes
+  435  conda activate snakes
+  436  conda info --envs
+  437  conda create --name snakes python=3.5
+  438  conda create --name snakes1 python=3.5
+  439  conda activate snakes1
+  440  python --version
+  441  conda -h
+  442  conda --envs
+  443  conda -envs
+  444  conda info --envs
+  445  conda activat
+  446  conda activate
+  447  conda env remove --name snakes1
+  448  conda info --envs
+  449  conda activate snakes
+  450  conda search beautifulsoup4
+  451  conda search pythin
+  452  conda search python
+  453  conda search beautifulsoup4
+  454  conda list
+  455  conda install beautifulsoup4
+  456  conda list
+  457  source ~/.bashrc
+  458  conda help
+  459  conda install
+  460  conda install -c ukoethe visual-studio
+  461  conda help
+  462  ls
+  463  rm -rf ~/anaconda3/
+  464  ls -la
+  465  nano .bashrc
+  466  history
+  467  conda info --envs
+  468  conda env remove --name snakes
+  469  conda env remove --name fungo
+  470  conda info --envs
+  471  history
+  472  poweroff
+  473  conda -h
+  474  conda list
+  475  conda compare base fungo
+  476  conda info --envs
+  477  conda create fungo
+  478  conda create -h
+  479  conda create -n fungo
+  480  conda -l envs
+  481  conda info envs
+  482  conda info --envs
+  483  conda info -h
+  484  conda info -a
+  485  conda info -a >> echo ./tmp/conda_info.txt
+  486  conda info -a >> echo ~/conda_info.txt
+  487  conda info -a >> ~/conda_info.txt
+  488  ls -la
+  489  file echo 
+  490  rm echo 
+  491  ls
+  492  gedit conda_info.txt 
+  493  clean
+  494  clar
+  495  clear
+  496  history
+  497  import numpy as np
+  498  exit
+  499  conda create --name snakes biopython
+  500  conda info -e
+  501  conda compare -h
+  502  conda compare -n fungo
+  503  conda compare -n fungo snake
+  504  conda info -e
+  505  conda activate fungo
+  506  conda compare -n snake
+  507  conda compare -n snake | fungo
+  508  curl cht.sh/conda compare
+  509  conda info -a > conda_info.txt 
+  510  gedit conda_info.txt 
+  511  q
+  512  conda activate snake
+  513  conda info -e
+  514  conda activate snakes
+  515  conda info -a >> conda_info.txt 
+  516  gedit conda_info.txt 
+  517  conda activate 
+  518  conda -h
+  519  conda remove env -n snakes
+  520  conda info -e
+  521  conda remove -e -n snakes
+  522  conda remove -en snakes
+  523  conda remove -h
+  524  conda remove -n snakes
+  525  conda remove snakes
+  526  history
+  527  conda info -e
+  528  conda env -h
+  529  conda env remove -n snakes
+  530  conda env remove -n fungo
+  531  conda info envs
+  532  conda info -e
+  533  history
+  534  anaconda-navigator
+  535  conda create env -n fungo geopandas
+  536  conda create env -n fungo
+  537  conda info -e
+  538  conda create -n fungo biopython
+  539  conda info -e
+  540  conda activate fungo
+  541  anaconda-navigator
+  542  conda activate
+  543  anaconda-navigator
+  544  clear
+  545  python
+  546  jupyter-notebook
+  547  anaconda-navigator 
+  548  pip install mycli
+  549  conda info -e
+  550  conda activate fungo
+  551  pip install mycli
+  552  mycli -h
+  553  mycli --help
+  554  conda activate
+  555  mycli --help
+  556  conda activate fungo
+  557  mycli --help
+  558  sudo mycli -u root -p
+  559  conda activate
+  560  conda activate fungo
+  561  sudo mycli -u root -p
+  562  mycli --help
+  563  sudo mycli -u root -p
+  564  conda activate fungo
+  565  sudo mycli -u root -p
+  566  mycli --help
+  567  sudo mysql -u root -p
+  568  mycli --version
+  569  mycli
+  570  mycli -u root -p
+  571  mycli -u root
+  572  pip3 install tldr
+  573  ~tldr sudo
+  574  tldr tar
+  575  tldr tail
+  576  history
+  577  conda activate
+  578  tldr tail
+  579  poweroff
+  580  history
+  581  cd /tmp
+  582  history >> ubuntu_history.txt
