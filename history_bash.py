@@ -1,20 +1,19 @@
-command_list = {}
+c_dict_all = {}
+c_dict_most = {}
+c_dict_search = {}
 lista_final = []
-a = {}
 
-#Recebe uma lista e insere os itens em dicionário['keys'] e conta suas ocorrências em
-#dicionário['value']
+#Receives a list and inserts the items in dictionary['keys'] and counts their occurrences in dictionary['value']
 def cont_commands(lf):
     for line in lf:
         line = line.rstrip()
         if line[7:].startswith('sudo'):
-            command_list[line[12:]] = command_list.get(line[12:], 0) + 1    
+            c_dict_all[line[12:]] = c_dict_all.get(line[12:], 0) + 1    
         else:
-            command_list[line[7:]] = command_list.get(line[7:], 0) + 1
-    return dict(reversed(sorted(command_list.items(), key=lambda item: item[1])))
+            c_dict_all[line[7:]] = c_dict_all.get(line[7:], 0) + 1
+    return dict(reversed(sorted(c_dict_all.items(), key=lambda item: item[1])))
                 
-#Recebe os arquivos txt e um lista vazia como parâmetros e retorna uma lista
-#onde cada item corresponde a uma linha do arquivo e excluindo repetições entre os arquivos do input.  
+#Takes the txt files and an empty list as parameters and returns a list where each item corresponds to a line in the file and excluding repetitions between the input files.
 def segrecacao(f1):
     listaf1 = []
     for line in f1:
@@ -24,8 +23,7 @@ def segrecacao(f1):
         if v not in lista_final:
             lista_final.append(v)
     
-
-#Usuário insere comando a ser pesquisado
+#User enters command to be searched
 def busca_comandos(cl):
     lista = {}
     comando = input("\nType a command: ")
@@ -35,7 +33,7 @@ def busca_comandos(cl):
                         
     return dict(reversed(sorted(lista.items(), key=lambda item: item[1])))
 
-#Ranqueia os principais comandos utilizados pelo usuário
+#Rank the main commands used by the user
 def comad_principais(lista_final):
     command_princ = {}
     for x in lista_final:
@@ -47,73 +45,60 @@ def comad_principais(lista_final):
     
     return (dict(reversed(sorted(command_princ.items(), key=lambda item: item[1]))))
 
+#Import list of files in txt format
 def import_files():
-    finput = input("\nDigite o nome do arquivo contendo a lista geral: ")
+    #finput = input("\nInput the file path: ")
     try:
-        fhist01 = open(finput)
+        fhist01 = open('files_comp.txt')
         for a in fhist01:
             a = a.rstrip()
             segrecacao(open(a))
-        print ('\nLoading is Complete!!\n')
+        print ('\n**** Loading is Complete!! **** \n')
     except:
-        print ("\nArquivo não encontrado!!!\n")
-    return finput
+        print ("\nFile not found!!!\n")
+    return
 
+#Print options menu
 def menu(l):
     for a in open('menu.txt'):
         a = a.rstrip()
         print (a)
     l = input ("\nSelect one option to go: ")
     return l
-    
+
+#Save dictionaries to files
+def output_files (dicionario):
+    foutput = input("\nType a file name: ")
+    fteste = open(foutput, 'w')
+    for x,y in dicionario.items():
+        fteste.write(x)
+        fteste.write(',')
+        fteste.write(str(y))
+        fteste.write('\n')
+
 #Main
 loop = None
-while loop != '5':
+while loop != '6':
     loop = menu(loop)
     if loop == '1':
         import_files()
-        cont_commands(lista_final)
+        c_dict_all = cont_commands(lista_final)
     elif loop == '2':
-        print (cont_commands(lista_final))
+        print (c_dict_all, '\n')
     elif loop == '3':
-        a = comad_principais(lista_final)
-        print (a)
+        c_dict_most = comad_principais(lista_final)
+        print (c_dict_most, '\n')
     elif loop == '4':
-        print (busca_comandos(command_list))
-    
-    
-        
-
-
-
-
-
-#indices = int(comparar_juntar(fhist01, fhist02, fhist03))
-#print (type(indices))
-#uniao_arquivo(fhist01, indices)
-#uniao_arquivo(fhist02, indices)
-#uniao_arquivo(fhist03, indices)
-
-#def conta_dicio(diciona):
-#    comando = input("Comando: ")
-#    for line in diciona.keys():
-#        if 
-
-
-    #for words in line:
-    #    print (words)
-
-#def gravar_arquivos (dicionario):
-#    fteste = open(foutput, 'w')
-#    fcommand = input("\nType a command: ")
-#    for line in fhand:
-#        line = line.rstrip()
-#        if line[7:].startswith(fcommand):
-#            fteste.write(line)
-#            fteste.write('\n')
-
-
-
-
-#cont_commands(fhist01)
-#print (command_list)
+        c_dict_search = busca_comandos(c_dict_all)
+        print (c_dict_search, '\n')
+    elif loop == '5':
+        for a in open('menu_save.txt'):
+            a = a.rstrip()
+            print (a)
+        c_dict_chose = input ("\nSelect one option to go: ")
+        if c_dict_chose == '1':
+            output_files(c_dict_all)
+        elif c_dict_chose == '2':
+            output_files(c_dict_most)
+        elif c_dict_chose == '3':
+            output_files(c_dict_search)

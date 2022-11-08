@@ -6,7 +6,8 @@
 =   2 - List all commands lines  =
 =   3 - List just commands       =
 =   4 - Search for commands      =
-=   5 - Exit                     =
+=   5 - Save results
+=   6 - Exit                     =
 =                                =
 ==================================
 ==================================
