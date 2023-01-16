@@ -1,0 +1,1001 @@
+ 1243  rm -r teste
+ 1244  ls -la
+ 1245  python3 -m venv envtest
+ 1246  ls -la
+ 1247  cd envtest/
+ 1248  ls -la
+ 1249  cd ..
+ 1250  rm -r envtest/
+ 1251  python3 -m venv myenv
+ 1252  source ./myenv/bin/activate
+ 1253  cat README.txt
+ 1254  cat README.rst 
+ 1255  TOXENV=py36-dj111 tox -- python manage.py migrate --settings=demo.settings
+ 1256  apt intall tox
+ 1257  sudo apt intall tox
+ 1258  apt install tox
+ 1259  sudo apt install tox
+ 1260  ls -la
+ 1261  TOXENV=py36-dj111 tox -- python manage.py migrate --settings=demo.settings
+ 1262  python --version
+ 1263  django --version
+ 1264  TOXENV=py36-dj111 tox -- python manage.py migrate --settings=demo.settings
+ 1265  sudo apt-get install python3.6
+ 1266  python3 --version
+ 1267  python3.6 --version
+ 1268  ls -la
+ 1269  cd myenv/
+ 1270  ls -la
+ 1271  cd lib
+ 1272  ls -la
+ 1273  sudo apt-get install python3.6cd ..
+ 1274  cd ..
+ 1275  rm -r ./lib/python3.9/
+ 1276  cd ..
+ 1277  pip install django==1.11
+ 1278  cd ..
+ 1279  desactivate
+ 1280  deactivate
+ 1281  ls -la
+ 1282  rm -r django-material/
+ 1283  ls -la
+ 1284  pip
+ 1285  pip --version
+ 1286  git clone https://github.com/viewflow/django-material.git
+ 1287  cd django-material/
+ 1288  conda create --name myenv python=3.6
+ 1289  python3 --version
+ 1290  conda activate myenv
+ 1291  python3 --version
+ 1292  pip install django==1.11
+ 1293  django --version
+ 1294  conda --help
+ 1295  conda list
+ 1296  ls -la
+ 1297  TOXENV=py36-dj111 tox -- python manage.py migrate --settings=demo.settings
+ 1298  tox -- python manage.py migrate --settings=demo.settings
+ 1299  cd ...
+ 1300  cd ..
+ 1301  conda activate base
+ 1302  conda env remove -n myenv
+ 1303  python --version
+ 1304  conda create --name myenv
+ 1305  conda activate myenv
+ 1306  mkdir dm
+ 1307  cd dm
+ 1308  pip install django-viewflow
+ 1309  ls -la
+ 1310  django --version
+ 1311  pip install django django-material django-viewflow
+ 1312  ls -la
+ 1313  django-admin startproject demo .
+ 1314  ls -la
+ 1315  ./manage.py startapp helloworld
+ 1316  python3 ./manage.py startapp helloworld
+ 1317  ls-la
+ 1318  ls -la
+ 1319  code .
+ 1320  conda activate myenv
+ 1321  conda list
+ 1322  pip install django django-material django-viewflow
+ 1323  cd Documents/Python_VScode/
+ 1324  ls -la
+ 1325  sudo rm -r django-material/
+ 1326  sudo rm -r dm
+ 1327  ls -la
+ 1328  mkdir my_django_project
+ 1329  cd my_django_project/
+ 1330  code .
+ 1331  ls -la
+ 1332  code .
+ 1333  cd ..
+ 1334  ls -la
+ 1335  cd my_django_project/
+ 1336  ls -la
+ 1337  cd ..
+ 1338  cd my_project_Django/
+ 1339  ls -la
+ 1340  cd my_first_project/
+ 1341  ls -la
+ 1342  cd ..
+ 1343  ls -la
+ 1344  rm -r my_django_project/
+ 1345  mkdir Django_Material_project
+ 1346  cd Django_Material_project/
+ 1347  code .
+ 1348  ls -la
+ 1349  cd ..
+ 1350  ls -la
+ 1351  sudo rm -r __pycache__/
+ 1352  sudo rm -r .git
+ 1353  cd help/
+ 1354  ls -la
+ 1355  cd ..
+ 1356  sudo rm -r help
+ 1357  ls -la
+ 1358  cd Django_Material_project/
+ 1359  ls -la
+ 1360  code .
+ 1361  python3 -m venv myenv
+ 1362  source ./myenv/bin/activate
+ 1363  pip install django
+ 1364  /home/fungo/Documents/Python_VScode/Django_Material_project/myenv/bin/python3 -m pip install --upgrade pip
+ 1365  pip install django
+ 1366  django admin startproject core .
+ 1367  django-admin startproject core .
+ 1368  python manage.py migrate
+ 1369  python manage.py createsuperuser
+ 1370  free
+ 1371  free -m
+ 1372  top
+ 1373  pstree | grep mysql
+ 1374  pstree -i
+ 1375  pstree -p
+ 1376  pstree -p | greep mysql
+ 1377  pstree -p | grep mysql
+ 1378  sudo kill 1112
+ 1379  pstree -p | grep mysql
+ 1380  sudo kill 1112
+ 1381  pstree -p | grep mysql
+ 1382  sudo kill 1112
+ 1383  pstree -p | grep mysql
+ 1384  pip install django-material-dashboard
+ 1385  pip install django-admin-material-dashboard
+ 1386  $ python manage.py collectstatic
+ 1387  $python manage.py collectstatic
+ 1388  $python3 manage.py collectstatic
+ 1389  python3 manage.py collec
+ 1390  python manage.py makemigrations
+ 1391  python manage.py migrate
+ 1392  python manage.py runserver
+ 1393  cd Documents/Python_VScode/
+ 1394  ls -la
+ 1395  mkdir Django_Viewflow
+ 1396  cd Django_Viewflow/
+ 1397  python3 -m venv myenv
+ 1398  source ./myenv/bin/activate
+ 1399  pip install django django-material django-viewflow
+ 1400  /home/fungo/Documents/Python_VScode/Django_Viewflow/myenv/bin/python3 -m pip install --upgrade pip
+ 1401  django-admin start project demo .
+ 1402  django-admin startproject demo .
+ 1403  code .
+ 1404  ./manage.py startapp helloword
+ 1405  ./manage.py makemigrations helloworld
+ 1406  cd ..
+ 1407  ls -l
+ 1408  acd my_project_Django/
+ 1409  cd my_project_Django/
+ 1410  ls -la
+ 1411  cd my_first_project/
+ 1412  ls -la
+ 1413  code .
+ 1414  cd ..
+ 1415  ls -la
+ 1416  cd Django_Material_project/
+ 1417  ls -la
+ 1418  cd ..
+ 1419  cd Django_Viewflow/
+ 1420  ls -la
+ 1421  ./manage.py makemigrations helloworld
+ 1422  python3 manage.py makemigrations helloworld
+ 1423  python3 manage.py makemigrations
+ 1424  python3 manage.py startserver
+ 1425  ./manage.py makemigrations helloworld
+ 1426  python3 manage.py migrate
+ 1427  pip freeze
+ 1428  pip install hellpword
+ 1429  pip install helloworld
+ 1430  pip freeze
+ 1431  ./manage.py makemigrations helloworld
+ 1432  cd ..
+ 1433  desactivate
+ 1434  history
+ 1435  deactivate
+ 1436  ls -la
+ 1437  cd djangoSIGE/
+ 1438  ls -la
+ 1439  cd ..
+ 1440  rmdir -r djangoSIGE/
+ 1441  sudo rmdir -r djangoSIGE/
+ 1442  sudo rm -r djangoSIGE/
+ 1443  ls -la
+ 1444  mkdir djangoSIGE
+ 1445  cd djangoSIGE/
+ 1446  [200~sudo apt install -y libxml2 gcc python3-dev libxml2-dev libxslt1-dev zlib1g-dev python3-pip
+ 1447  sudo apt install -y libxml2 gcc python3-dev libxml2-dev libxslt1-dev zlib1g-dev python3-pip
+ 1448  sudo apt update
+ 1449  python3 -m venv myenv
+ 1450  source ./myenv/bin/activate
+ 1451  git clone https://github.com/thiagopena/djangoSIGE.git
+ 1452  ls -la
+ 1453  cd djangoSIGE/
+ 1454  gedit
+ 1455  gedit requirements.txt 
+ 1456  pip install -r requirements.txt 
+ 1457  code .
+ 1458  python contrib/env_gen.py
+ 1459  python3 manage.py migrate
+ 1460  django-admin startproject djangosige
+ 1461  django-admin manage.py runserver
+ 1462  django-admin help
+ 1463  django-admin check
+ 1464  django-admin startproject teste
+ 1465  python3 manage.py migrate
+ 1466  cd Documents/Python_VScode/
+ 1467  ls -la
+ 1468  cd djangoSIGE/
+ 1469  ls -la
+ 1470  python3 ./myenv/bin/activate
+ 1471  history
+ 1472  activate
+ 1473  source ./myenv/bin/activate
+ 1474  cd djangoSIGE/
+ 1475  code .
+ 1476  python3 manage.py migrate
+ 1477  python3 manage.py --help
+ 1478  history
+ 1479  django-admin --help
+ 1480  ls -la
+ 1481  cd djangosige/
+ 1482  ls -la
+ 1483  django-admin --help
+ 1484  pip install dj-database-url
+ 1485  django-admin --help
+ 1486  python3 manage.py migrate
+ 1487  ls -la
+ 1488  cd ..
+ 1489  python3 manage.py migrate
+ 1490  cd ..
+ 1491  desactivate
+ 1492  deactivate
+ 1493  sudo rm -r djangoSIGE/
+ 1494  ls -la
+ 1495  mkdir djangoSIGE
+ 1496  cd djangoSIGE/
+ 1497  python3 -m venv myenv
+ 1498  history
+ 1499  source ./myenv/bin/activate
+ 1500  [200~git clone https://github.com/thiagopena/djangoSIGE.git~
+ 1501  git clone https://github.com/thiagopena/djangoSIGE.git
+ 1502  ls -la
+ 1503  cd djangoSIGE/
+ 1504  ls -la
+ 1505  cd ..
+ 1506  deactivate
+ 1507  cd ..
+ 1508  sudo rm -r djangoSIGE/
+ 1509  ls -la
+ 1510  mkdir djangoSIGE
+ 1511  sudo rm -r djangoSIGE/
+ 1512  ls -la
+ 1513  git clone https://github.com/thiagopena/djangoSIGE.git
+ 1514  ls -la
+ 1515  cd djangoSIGE/
+ 1516  ls -la
+ 1517  python3 -m venv myenv
+ 1518  source ./myenv/bin/activate
+ 1519  gedit requirements.txt
+ 1520  pip install -r requirements.txt 
+ 1521  ls- la
+ 1522  ls -la
+ 1523  code .
+ 1524  source /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/myenv/bin/activate
+ 1525  /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/myenv/bin/python
+ 1526  python3 test.py
+ 1527  python3 converter.py 
+ 1528  python3 test.py 
+ 1529  cd Documents/Python_VScode/
+ 1530  ls -la
+ 1531  cd GPT3/
+ 1532  ls -la
+ 1533  cd openai-quickstart-python/
+ 1534  ls -la
+ 1535  code .
+ 1536  cd ..
+ 1537  ls -la
+ 1538  cd djangoSIGE/
+ 1539  ls
+ 1540  ls -la
+ 1541  code .
+ 1542  tree /
+ 1543  sudo apt install tree
+ 1544  tree ./
+ 1545  tree --help
+ 1546  tree ./
+ 1547  tree -d ./
+ 1548  ls -la
+ 1549  tree -I .git,myenv
+ 1550  tree -d -I .git,myenv
+ 1551  tree -d -I .git,myenv > djan_SIGE_tree_directory.txt
+ 1552  ls -la
+ 1553  gedit ./djan_SIGE_tree_directory.txt 
+ 1554  code .
+ 1555  cd ..
+ 1556  ls -la
+ 1557  cd my_project_Django/
+ 1558  s -la
+ 1559  ls -la
+ 1560  cd my_first_project/
+ 1561  ls -la
+ 1562  code .
+ 1563  source /home/fungo/Documents/Python_VScode/djangoSIGE/myenv/bin/activate
+ 1564  django-admin --help
+ 1565  python3 manage.py --help
+ 1566  python3 manage.py test
+ 1567  python3 manage.py runserver
+ 1568  conda activate fungo
+ 1569  django-admin manage.py runserver
+ 1570  python3 manage.py runserver
+ 1571  python3 contrib/env_gen.py
+ 1572  sourve ./myenv/bin/activate
+ 1573  python3 contrib/env_gen.py
+ 1574  source ./myenv/bin/activate
+ 1575  python3 contrib/env_gen.py
+ 1576  python3 manage.py runserver
+ 1577  python3 --version
+ 1578  django --version
+ 1579  django-admin --version
+ 1580  python3 --version
+ 1581  cd Documents/Python_VScode/
+ 1582  ls -la
+ 1583  cd my_project_Django/
+ 1584  ls 
+ 1585  cd my_first_project/
+ 1586  ls -la
+ 1587  code .
+ 1588  cd ..
+ 1589  cd djangoSIGE/
+ 1590  code .
+ 1591  cd Documents/Python_VScode/
+ 1592  ls -la
+ 1593  cd djangoSIGE/
+ 1594  ls -la
+ 1595  source ./myenv/bin/activate
+ 1596  ls -la
+ 1597  code .
+ 1598  source ./myenv/bin/activate
+ 1599  l s-la
+ 1600  ls -la
+ 1601  python3 manage.py migrate
+ 1602  python3 manage.py startproject a
+ 1603  cd a
+ 1604  python3 manage.py migrate
+ 1605  python3 manage.py runserver
+ 1606  cd ..
+ 1607  sudo rm -r ./a
+ 1608  ls -la
+ 1609  python3 manage.py runserver
+ 1610  python3 manage.py migrate
+ 1611  python3 manage.py check
+ 1612  python manage.py show_urls
+ 1613  python3 manage.py show_urls
+ 1614  cd ...
+ 1615  cd ..
+ 1616  deactivate
+ 1617  docker-compose --version
+ 1618  cd djangoSIGE/
+ 1619  ls
+ 1620  source ./myenv/bin/activate
+ 1621  docker build -t myimage .
+ 1622  sudo docker build -t myimage .
+ 1623  docker run -p 8000:8000 -d myimage
+ 1624  sudo docker run -p 8000:8000 -d myimage
+ 1625  sudo doker images
+ 1626  sudo docker images
+ 1627  sudo docker run -p 8000:8000 -d alpine
+ 1628  sudo docker run -p 8000:8000 -d myimage
+ 1629  ls -la
+ 1630  docker rmi myimage
+ 1631  sudo docker rmi myimage
+ 1632  sudo docker build -t myimage .
+ 1633  docker-compose up
+ 1634  docker pull python
+ 1635  sudo docker pull python
+ 1636  sudo doker images
+ 1637  sudo docker images
+ 1638  sudo docker run -p 8000:8000 -d python
+ 1639  sudo docker start 4c727ec813289d04267949c9fb464796e613a24bf0ad6918919532be66abda81
+ 1640  sudo docker start python
+ 1641  sudo docker start 4c727ec81328
+ 1642  sudo docker ps
+ 1643  sudo docker run -p 8000:8000 -d ubuntu
+ 1644  sudo docker start 8542564396b54b7ee105b555baad5dc20e4c7e9d0d387497407b51a6b8655562
+ 1645  sudo docker ps
+ 1646  history
+ 1647  cd Documents/Python_VScode/
+ 1648  mkdir oscar
+ 1649  cd oscar/
+ 1650  python3 -m venv oscar_env
+ 1651  source oscar_env/bin/activate
+ 1652  pip install django-oscar[sorl-thumbnail]
+ 1653  /home/fungo/Documents/Python_VScode/oscar/oscar_env/bin/python3 -m pip install --upgrade pip
+ 1654  ls -la
+ 1655  cd frobshop/
+ 1656  ls -la
+ 1657  code .
+ 1658  cd ..
+ 1659  ls -la
+ 1660  cd ..
+ 1661  ls -la
+ 1662  git clone git@github.com:django-cms/django-cms-quickstart.git
+ 1663  cd
+ 1664  [200~sudo apt-get update
+ 1665  sudo apt-get update
+ 1666  deactivate
+ 1667  sudo apt-get install     ca-certificates     curl     gnupg     lsb-release
+ 1668  sudo mkdir -p /etc/apt/keyrings
+ 1669  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 1670  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+ 1671    $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 1672  sudo apt-get update
+ 1673  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+ 1674  sudo docker run hello-world
+ 1675  docker run -it ubuntu bash
+ 1676  sudo docker run -it ubuntu bash
+ 1677  ls -la
+ 1678  cd Documents/Python_VScode/
+ 1679  cd ..
+ 1680  mkdir Docker_projects
+ 1681  cd Docker_projects/
+ 1682  git clone git@github.com:django-cms/django-cms-quickstart.git
+ 1683  sudo apt-get install openssh-client
+ 1684  ssh-keygen -t rsa -b 4096 -C "fabiofreirediniz@gmail.com"
+ 1685  cat ~/.ssh/id_rsa.pub
+ 1686  cd
+ 1687  cd .ssh/
+ 1688  ls -la
+ 1689  cat known_hosts 
+ 1690  ssh-keygen -t rsa -b 4096 -C "fabiofreirediniz@gmail.com"
+ 1691  cat /home/fungo/.ssh/id_rsa.pub
+ 1692  cd
+ 1693  cd Documents/Docker_projects/
+ 1694  git clone git@github.com:django-cms/django-cms-quickstart.git
+ 1695  ls 
+ 1696  cd django-cms-quickstart/
+ 1697  ls -la
+ 1698  docker-compose up --build -d
+ 1699  sudo apt  install docker-compose
+ 1700  docker-compose up --build -d
+ 1701  pip3 uninstall six
+ 1702  pip3 install six
+ 1703  docker-compose up --build -d
+ 1704  modprobe kvm
+ 1705  sudo modprobe kvm
+ 1706  sudo modprobe kvm_intel
+ 1707  kvm-ok
+ 1708  sudo apt install cpu-checker
+ 1709  sudo modprobe kvm_intel
+ 1710  kvm-ok
+ 1711  sudo kvm-ok
+ 1712  lsmod | grep kvm
+ 1713  cd ..
+ 1714  ls -la
+ 1715  cd ..
+ 1716  ls -la
+ 1717  cd Python_VScode/
+ 1718  cd djangoSIGE/
+ 1719  ls 
+ 1720  ls -la
+ 1721  cat djan_SIGE_tree_directory.txt 
+ 1722  history
+ 1723  tree -d -I .git,myenv
+ 1724  tree -I .git,myenv
+ 1725  tree -d -I .git,myenv
+ 1726  tree -d -I myenv
+ 1727  tree -d -I .git,myenv
+ 1728  tree -d -I .git
+ 1729  tree -d -I myenv
+ 1730  tree -d -I myenv > teste.txt
+ 1731  gedit teste.txt 
+ 1732  tree -d -I .git,myenv >> teste.txt 
+ 1733  gedit teste.txt 
+ 1734  rm teste.txt 
+ 1735  tree -d -I myenv
+ 1736  tee --help
+ 1737  tree -d -i myenv
+ 1738  tee --help
+ 1739  curl chest.sh/tree
+ 1740  ls -la
+ 1741  code .
+ 1742  cd ..
+ 1743  ls -la
+ 1744  cd djangoSIGE/
+ 1745  ls -la
+ 1746  history
+ 1747  sudo docker run -it ubuntu bash
+ 1748  sudo docker ps
+ 1749  sudo docker images
+ 1750  sudo docker run -it alpine
+ 1751  sudo docker run -it python
+ 1752  sudo docker images
+ 1753  ls -la
+ 1754  sudo docker run Dockerfile
+ 1755  cat Dockerfile 
+ 1756  ls -la
+ 1757  cd ..
+ 1758  sudo rm -d djangoSIGE/
+ 1759  sudo apt update
+ 1760  sudo rm -d djangoSIGE/
+ 1761  history
+ 1762  cd Documents/Python_VScode/
+ 1763  sudo rm -d djangoSIGE/
+ 1764  cd djangoSIGE/
+ 1765  ls -la
+ 1766  sudo docker ps
+ 1767  cd ..
+ 1768  sudo rm -d djangoSIGE/
+ 1769  sudo rm -rf djangoSIGE/
+ 1770  ls -la
+ 1771  history
+ 1772  [200~(base) fungo@fungo-VirtualBox:~/Documents/Python_VScode$ sudo rm -d djangoSIGE/
+ 1773  rm: cannot remove 'djangoSIGE/': Directory not empty
+ 1774  git clone https://github.com/thiagopena/djangoSIGE.git
+ 1775  ls
+ 1776  cd djangoSIGE/
+ 1777  ls -la
+ 1778  gedit requirements.txt 
+ 1779  python -m venv .myenv
+ 1780  ls
+ 1781  ls -la
+ 1782  source .myenv/bin/activate
+ 1783  pip install requirements.txt 
+ 1784  ls -la
+ 1785  cat requirements.txt 
+ 1786  pip intall requirements.txt 
+ 1787  pip -r install requirements.txt 
+ 1788  pip install -r requirements.txt 
+ 1789  tree
+ 1790  tree > arvore.txr
+ 1791  gedit arvore.txr 
+ 1792  ls -la
+ 1793  cat contrib/env_gen.py 
+ 1794  ls -la
+ 1795  cat contrib/env_gen.py 
+ 1796  cd ..
+ 1797  ls -la
+ 1798  git clone git@github.com:FabioSBE/django_test.git
+ 1799  ls -la
+ 1800  cd django_test/
+ 1801  ls -la
+ 1802  code .
+ 1803  cd Documents/Python_VScode/
+ 1804  cd djangoSIGE/
+ 1805  ls
+ 1806  cd contrib/
+ 1807  gedit env_gen.py 
+ 1808  s -la
+ 1809  ls -la
+ 1810  python -m venv .venv
+ 1811  source .venv/bin/activate
+ 1812  pip install -U pip && pip install django dj-database-url python-decouple django-extensions
+ 1813  pip freeze
+ 1814  pip freeze > requirements.txt
+ 1815  mkdir contrib
+ 1816  cd contrib/
+ 1817  touch env_gen.py
+ 1818  cd..
+ 1819  cd ..
+ 1820  python contrib/env_gen.py 
+ 1821  git status
+ 1822  git info
+ 1823  git log
+ 1824  git commit -m "Add env_gen"
+ 1825  git add .
+ 1826  git commit -m "Add env_gen"
+ 1827  django-admin startproject myproject
+ 1828  git reset --hard HEAD~1
+ 1829  django-admin startproject myproject
+ 1830  git reset --hard HEAD~1
+ 1831  git log
+ 1832  git reset --hard HEAD
+ 1833  git log
+ 1834  git reset --hard HEAD
+ 1835  git status
+ 1836  git log
+ 1837  git commit -m "Add env_gen"
+ 1838  git add .
+ 1839  git commit -m "Add env_gen"
+ 1840  git status
+ 1841  git log
+ 1842  django-admin startproject myproject .
+ 1843  tree
+ 1844  cd myproject/
+ 1845  python ../manage.py startapp  core
+ 1846  cd ..
+ 1847  tree
+ 1848  pip freeze
+ 1849  git status
+ 1850  git add .
+ 1851  git commit -m "Start to criate the project"
+ 1852  git push
+ 1853  mkdir -p myproject/core/static/css
+ 1854  touch myproject/core/static/css/main.css
+ 1855  mkdir -p myproject/core/templates/includes
+ 1856  touch myproject/core/templates/{base,index}.html
+ 1857  touch myproject/core/templates/includes/nav.html
+ 1858  tree
+ 1859  python manage.py runserver
+ 1860  cd /home/fungo/Documents/Python_VScode/django_test/.venv/lib/python3.9/site-packages/django/apps/config.py
+ 1861  cat /home/fungo/Documents/Python_VScode/django_test/.venv/lib/python3.9/site-packages/django/apps/config.py
+ 1862  python3 manage.py runserver
+ 1863  sudo apt update
+ 1864  ls -la
+ 1865  top
+ 1866  ls -la
+ 1867  exit
+ 1868  ls
+ 1869  ls -la
+ 1870  cat /etc/ssh/sshd_config
+ 1871  nano /etc/ssh/sshd_config
+ 1872  exit
+ 1873  pwd
+ 1874  ls -la
+ 1875  cat .mycli-history 
+ 1876  ls -la
+ 1877  sudo docker ps
+ 1878  history
+ 1879  cd Documents/Python_VScode/
+ 1880  ls -la
+ 1881  cd THB_project/
+ 1882  ls -a
+ 1883  ls -al
+ 1884  code .
+ 1885  ls -la
+ 1886  cd Documents/Python_VScode/
+ 1887  cd THB_project/
+ 1888  ls
+ 1889  python history_bash.py 
+ 1890  cd ..
+ 1891  ls -la
+ 1892  cd djangoSIGE/
+ 1893  ls -la
+ 1894  source .myenv/bin/activate
+ 1895  python3 manage.py runserver
+ 1896  sudo apt install openssh-server
+ 1897  deactivate
+ 1898  cd
+ 1899  sudo apt install openssh-server
+ 1900  sudo lsof /var/lib/dpkg/lock
+ 1901  sudo kill -9 39980
+ 1902  pstree | grep dpkg
+ 1903  top | grep dpkg
+ 1904  sudo lsof /var/lib/dpkg/lock
+ 1905  sudo apt install openssh-server
+ 1906  ip addr show
+ 1907  sudo docker stop
+ 1908  docker ps
+ 1909  sudo docker ps
+ 1910  sudo ufw allow ssh
+ 1911  ip addr show
+ 1912  sudo ufw allow ssh
+ 1913  sudo passwd root
+ 1914  sudo apt update
+ 1915  system status ssh
+ 1916  systemctl status ssh
+ 1917  ls /etc/ssh/
+ 1918  ls /etc/ssh/sshd_config
+ 1919  cd /etc/ssh/sshd_config
+ 1920  nano /etc/ssh/sshd_config
+ 1921  sudo nano /etc/ssh/sshd_config
+ 1922  sudo cat /etc/ssh/sshd_config
+ 1923  sudo nano /etc/ssh/sshd_config
+ 1924  clear
+ 1925  systemctl status ssh
+ 1926  sudo nano /etc/ssh/sshd_config
+ 1927  ssh-keygen
+ 1928  ls /home/fungo/.ssh/id_rsa
+ 1929  cd /home/fungo/.ssh/id_rsa
+ 1930  cat /home/fungo/.ssh/id_rsa
+ 1931  ssh-keygen
+ 1932  cd .ssh
+ 1933  ls
+ 1934  ls -la
+ 1935  cat known_hosts
+ 1936  ls -la
+ 1937  cat id_rsa
+ 1938  who
+ 1939  ip addr show
+ 1940  cd..
+ 1941  cd ..
+ 1942  ip addr show
+ 1943  ssh fabio@192.168.0.135
+ 1944  ls -la ~/.ssh/
+ 1945  ssh-copy-id fabio@192.168.0.135
+ 1946  ssh fabio@192.168.0.135
+ 1947  python3 -V
+ 1948  sudo docker stats
+ 1949  docker run -i -t ubuntu /bin/bash
+ 1950  sudo docker run -i -t ubuntu /bin/bash
+ 1951  sudo docker stats
+ 1952  sudo docker run helloworld
+ 1953  sudo docker run ubuntu
+ 1954  sudo docker stats
+ 1955  sudo docker ps
+ 1956  docker pull ubuntu:lastest
+ 1957  sudo docker pull ubuntu:lastest
+ 1958  sudo docker pull ubuntu
+ 1959  sudo docker ps
+ 1960  sudo docker stats
+ 1961  docker pull centos
+ 1962  sudo docker pull centos
+ 1963  sudo docker ps
+ 1964  sudo docker run -d -t --name mycontainer centos
+ 1965  sudo docker ps
+ 1966  sudo docker exec -it mycontainer bash
+ 1967  sudo docker pull alpine
+ 1968  sudo docker run -d -t --name my2container alpine
+ 1969  sudo docker ps
+ 1970  sudo docker exec -it my2container sh
+ 1971  sudo docker stats
+ 1972  sudo docker pull ubuntu:14.04
+ 1973  sudo docker run -d -t --name my3container ubuntu:14.04
+ 1974  sudo docker ps
+ 1975  sudo docker exec -it my3container bash
+ 1976  sudo docker pull django
+ 1977  sudo docker image
+ 1978  sudo docker ls
+ 1979  sudo docker django ls
+ 1980  sudo docker run -t -d --name djangocont django
+ 1981  sudo docker ps
+ 1982  sudo docker stats
+ 1983  sudo docker ps
+ 1984  sudo docker exec -it djangocont python3
+ 1985  sudo docker pull thenetworkchuck/nccoffe:vacpot
+ 1986  ip addr show 
+ 1987  cd Documents/Python_VScode/
+ 1988  ls -la
+ 1989  cd djangoSIGE/
+ 1990  ls -la
+ 1991  git log
+ 1992  cd Documents/Python_VScode/
+ 1993  cd djangoSIGE/
+ 1994  ls -la
+ 1995  git log --graph
+ 1996  CD Documents/Python_VScode/
+ 1997  ls -la
+ 1998  cd Documents/Python_VScode/
+ 1999  ls -la
+ 2000  cd repositoty_v1/
+ 2001  ls
+ 2002  ls -la
+ 2003  cd Python-Battleship/
+ 2004  ls -la
+ 2005  git log --graph --pretty=format:"%h %s" --abbrev-commit
+ 2006  git log -g -p="%h %s" -c
+ 2007  git log --graph --pretty=format:"%h %s" --abbrev-commit
+ 2008* git log --graph --pretty=format:"%h %s" --abbrev-commit
+
+ 2009  cat README.md 
+ 2010* git log --graph --pret
+ 2011  git log --graph --abbrev-commit
+ 2012  git log --graph
+ 2013  git log --graph --help
+ 2014  git log --help
+ 2015  git log --onlie
+ 2016  git log --online
+ 2017  git log --oneline
+ 2018  cd ..
+ 2019  cd  ..
+ 2020  cd djangoSIGE/
+ 2021  git log --oneline
+ 2022  git log --oneline --decorate
+ 2023  git log --graph --oneline --decorate
+ 2024  git log --pretty=format:"%cn committed %h on %cd"
+ 2025  git log --pretty=format:"%cn committed %h on %cd" --graph
+ 2026  git log --pretty=format:"%cn committed %h on %cd" --graph --oneline
+ 2027  git log --pretty=format:"%cn committed %h on %cd" --graph
+ 2028  git log --pretty=format:"%cd" 
+ 2029  git log --graph --pretty=format:"%cd" 
+ 2030  git log --graph --oneline --pretty=format:"%cd" 
+ 2031  git log --graph --oneline
+ 2032  git log -g
+ 2033  git log --grapg
+ 2034  git log --graph
+ 2035* 
+ 2036  git log --graph --pretty=format:"%cd" 
+ 2037  git log --graph --pretty=format:"%cn" 
+ 2038  git log --graph --pretty=format:"%cd" 
+ 2039  git log --graph -o 
+ 2040  git log --graph --oneline
+ 2041  cd ..
+ 2042  ls -la
+ 2043  cd THB_project/
+ 2044  git log --graph
+ 2045  git branch 
+ 2046  git status
+ 2047  git branch -a
+ 2048  git branch -vv
+ 2049  git branch r
+ 2050  cd ..
+ 2051  cd Python_VScode/
+ 2052  ls -la
+ 2053  cd repo_first/
+ 2054  ls -la
+ 2055  git config 
+ 2056  git config -l
+ 2057  git config -e
+ 2058  git config --local
+ 2059  ls -la
+ 2060  git log
+ 2061  cd ..
+ 2062  cd djangoSIGE/
+ 2063  git config -l
+ 2064  git config init.defaultbranch main
+ 2065  git config -l
+ 2066  git config init.defaultbranch main
+ 2067  git config -l
+ 2068  ls -la
+ 2069  cd ..
+ 2070  cd THB_project/
+ 2071  ls -la
+ 2072  git branch -r
+ 2073  python3 history_bash.py 
+ 2074  git branch v
+ 2075  git branch -v
+ 2076  git branch -a
+ 2077  git branch -va
+ 2078  git log --graph
+ 2079  cd ..
+ 2080  mkdir teste_git
+ 2081  cd teste
+ 2082  cd teste_git/
+ 2083  git init
+ 2084  git branch
+ 2085  git branch -v
+ 2086  git branch -va
+ 2087  git status
+ 2088  git config -l
+ 2089  git config --global init.defaultBranch main
+ 2090  git config -l
+ 2091  cd ..
+ 2092  sudo rm -r teste_git/
+ 2093  mkdir teste_git
+ 2094  cd teste_git/
+ 2095  git init
+ 2096  git status
+ 2097  touch A
+ 2098  ls
+ 2099  git status
+ 2100  git add .
+ 2101  git status
+ 2102  git commit -n "A"
+ 2103  git commit -m "A"
+ 2104  git log
+ 2105  touch B
+ 2106  git add .
+ 2107  gis statu
+ 2108  gis status
+ 2109  git status
+ 2110  git commit -m "B"
+ 2111  git log
+ 2112  git log --graph --oneline
+ 2113  touch C
+ 2114  git add .
+ 2115  git commit -m "C"
+ 2116  git log --graph
+ 2117  git checkout -b sec
+ 2118  git branch -v
+ 2119  touch D
+ 2120  git status 
+ 2121  git sdd
+ 2122  git add .
+ 2123  git commit -m "D"
+ 2124  touch E
+ 2125  git add .
+ 2126  git commit -m "E"
+ 2127  git log --graph
+ 2128  git branch -v
+ 2129  git checkout main 
+ 2130  cd ..
+ 2131  cd teste_git/
+ 2132  touch F
+ 2133  git status
+ 2134  git add .
+ 2135  git commit -m "F"
+ 2136  git log --graph
+ 2137  git checkout sec
+ 2138  git log
+ 2139  git log --graph
+ 2140  git log --graph --onlie
+ 2141  git log --graph --oneline
+ 2142  git status
+ 2143  git checkout main 
+ 2144  git status
+ 2145  git branch -va
+ 2146  git log --graph --oneline
+ 2147  git checkout sec 
+ 2148  git log --graph --oneline
+ 2149  git diff main sec
+ 2150  git difftool main sec
+ 2151  git checkout main
+ 2152  git branch -va
+ 2153  git merge sec
+ 2154  ls -la
+ 2155  git log --graph
+ 2156  git log --graph --oneline
+ 2157  cd ..
+ 2158  ls -la
+ 2159  cd THB_project/
+ 2160  ls -la
+ 2161  git status
+ 2162  git log
+ 2163  git branch -va
+ 2164  git branch -d r,v
+ 2165  git branch -d r
+ 2166  git branch -d v
+ 2167  git branch -va
+ 2168  git diff main remotes/thb_project/main
+ 2169  git difftool main remotes/thb_project/main
+ 2170  git checkout remotes/thb_project/main
+ 2171  git branch -va
+ 2172  git log
+ 2173  git diff thb_project/main main
+ 2174  git checkout main
+ 2175  git branch -va
+ 2176  git log
+ 2177  ls -la
+ 2178  code .
+ 2179  git log --graph --oneline
+ 2180  git diff 567b729 a28592e
+ 2181  ls -la
+ 2182  git add .
+ 2183  git commit -m "starting file organization"
+ 2184  git log --graph
+ 2185  git log --graph --oneline
+ 2186  git diff --name-status e1739ee cd01ad0
+ 2187  git branch -va
+ 2188  git push main main
+ 2189  git push thb_project main
+ 2190  git branch -va
+ 2191  git pull git@github.com:FabioSBE/THB_project.git
+ 2192  sudo git pull git@github.com:FabioSBE/THB_project.git
+ 2193  git pull https://github.com/FabioSBE/THB_project.git
+ 2194  git log --graph
+ 2195  cd ..
+ 2196  ls -la
+ 2197  mkdir tmp
+ 2198  cd tmp/
+ 2199  git clone (base) fungo@fungo-VirtualBox:~/Documents/Python_VScode/THB_project$ git pull https://github.com/FabioSBE/THB_project.git
+ 2200  From https://github.com/FabioSBE/THB_project
+ 2201  Already up to dat
+ 2202  git clone https://github.com/FabioSBE/THB_project.git
+ 2203  ls -la
+ 2204  file FETCH_HEAD 
+ 2205  cat FETCH_HEAD 
+ 2206  cd THB_project/
+ 2207  ls -la
+ 2208  git log --graph
+ 2209  ls -la
+ 2210  cd ..
+ 2211  sudo rm -r tmp/
+ 2212  ls -la
+ 2213  mkdir tmp
+ 2214  cd tm
+ 2215  cd tmp/
+ 2216  cd ..
+ 2217  cd THB_project/
+ 2218  git log
+ 2219  git branch -va
+ 2220  git pull
+ 2221  git pull thb_project main
+ 2222  git log
+ 2223  git branch -va
+ 2224  git diff main thb_project/main 
+ 2225  git diff thb_project/main main 
+ 2226  git pull
+ 2227  git pull thb_project main 
+ 2228  git log --graph
+ 2229  ls -la
+ 2230  cat comandos.txt 
+ 2231  git log --graph
+ 2232  git status
+ 2233  git branch -va
+ 2234  git branch createclass
+ 2235  git branch -va
+ 2236  history
+ 2237  git checkout createclass 
+ 2238  git branch -v
+ 2239  git add .
+ 2240  git status
+ 2241  ls -la
+ 2242  history > ./inputs/hist.txt
