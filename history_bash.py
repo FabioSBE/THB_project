@@ -1,10 +1,10 @@
 c_dict_all = {}
 c_dict_most = {}
 c_dict_search = {}
-lista_final = []
+final_list = []
 
 #Receives a list and inserts the items in dictionary['keys'] and counts their occurrences in dictionary['value']
-def cont_commands(lf):
+def cont_com(lf):
     for line in lf:
         line = line.rstrip()
         if line[7:].startswith('sudo'):
@@ -14,17 +14,17 @@ def cont_commands(lf):
     return dict(reversed(sorted(c_dict_all.items(), key=lambda item: item[1])))
                 
 #Takes the txt files and an empty list as parameters and returns a list where each item corresponds to a line in the file and excluding repetitions between the input files.
-def segrecacao(f1):
-    listaf1 = []
+def union_com(f1):
+    listf1 = []
     for line in f1:
         line = line.rstrip()
-        listaf1.append(line)
-    for v in listaf1:
-        if v not in lista_final:
-            lista_final.append(v)
+        listf1.append(line)
+    for v in listf1:
+        if v not in final_list:
+            final_list.append(v)
     
 #User enters command to be searched
-def busca_comandos(cl):
+def search_com(cl):
     lista = {}
     comando = input("\nType a command: ")
     for x,y in cl.items():
@@ -34,9 +34,9 @@ def busca_comandos(cl):
     return dict(reversed(sorted(lista.items(), key=lambda item: item[1])))
 
 #Rank the main commands used by the user
-def comad_principais(lista_final):
+def main_com(final_list):
     command_princ = {}
-    for x in lista_final:
+    for x in final_list:
         x = x.rsplit()
         if x[1] == 'sudo':
             command_princ[x[2]] = command_princ.get(x[2], 0) + 1
@@ -52,7 +52,7 @@ def import_files():
         fhist01 = open('files_comp.txt')
         for a in fhist01:
             a = a.rstrip()
-            segrecacao(open(a))
+            union_com(open(a))
         print ('\n**** Loading is Complete!! **** \n')
     except:
         print ("\nFile not found!!!\n")
@@ -82,15 +82,18 @@ while loop != '6':
     loop = menu(loop)
     if loop == '1':
         import_files()
-        c_dict_all = cont_commands(lista_final)
+        c_dict_all = cont_com(final_list)
     elif loop == '2':
-        print (c_dict_all, '\n')
+        for x,y in c_dict_all.items():
+            print (x, ' - ', y)
     elif loop == '3':
-        c_dict_most = comad_principais(lista_final)
-        print (c_dict_most, '\n')
+        c_dict_most = main_com(final_list)
+        for x,y in c_dict_most.items():
+            print (x, ' - ', y)
     elif loop == '4':
-        c_dict_search = busca_comandos(c_dict_all)
-        print (c_dict_search, '\n')
+        c_dict_search = search_com(c_dict_all)
+        for x,y in c_dict_search.items():
+            print (x, ' - ', y)
     elif loop == '5':
         for a in open('menu_save.txt'):
             a = a.rstrip()

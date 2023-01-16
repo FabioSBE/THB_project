@@ -1,0 +1,1000 @@
+ 1066  conda list --help
+ 1067  code .
+ 1068  anaconda-navigator
+ 1069  conda-navigator
+ 1070  conda activate base
+ 1071  anaconda-navigator
+ 1072  cd ..
+ 1073  cd tmp/
+ 1074  history >> hist.txt
+ 1075  gedit hist.txt 
+ 1076  conda activate fungo
+ 1077  ls -la
+ 1078  cd Predicting-Survival-on-Titanic-with-Machine-Learning-and-Graphical-User-Interface/
+ 1079  ls -a
+ 1080  python3 GUI.py 
+ 1081  conda activate fungo
+ 1082  conda install SciKit-Learn
+ 1083  conda list
+ 1084  conda install SciPy
+ 1085  conda install Seaborn
+ 1086  conda install Matplotlib
+ 1087  conda install Tkinter
+ 1088  conda install tkinter
+ 1089  conda list
+ 1090  conda install Pillow
+ 1091  code .
+ 1092  anaconda-navigator
+ 1093  conda activate base
+ 1094  anaconda-navigator
+ 1095  poweroff
+ 1096  conda activaconda activate fungo
+ 1097  conda activate fungo
+ 1098  conda install wikipedia
+ 1099  pip3 install wikipedia
+ 1100  cd web-scraping/
+ 1101  cd wikipedia-extractor/
+ 1102  python3 wikipedia_extractor.py 
+ 1103  ls -la
+ 1104  gedit wiki_teste.txt 
+ 1105  python3 wikipedia_extractor.py 
+ 1106  gedit wiki_teste.txt 
+ 1107  python3 wikipedia_extractor.py 
+ 1108  gedit wiki_teste.txt 
+ 1109  python3 wikipedia_extractor.py 
+ 1110  gedit wiki_teste.txt 
+ 1111  python3 wikipedia_extractor.py 
+ 1112  gedit wiki_teste.txt 
+ 1113  python3 wikipedia_extractor.py 
+ 1114  gedit wiki_teste.txt 
+ 1115  cd ..
+ 1116  cd html-table-extractor/
+ 1117  python3 html_table_extractor.py 
+ 1118  python3 html_table_extractor.py https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+ 1119  python3 html_table_extractor https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+ 1120  python html_table_extractor.py https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+ 1121  pip3 install requests bs4 pandas
+ 1122  python html_table_extractor.py https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+ 1123  python3 html_table_extractor.py https://www.wikiaves.com.br/especies.php?t=c&c=3107109
+ 1124  cd ~/Documents/Python_VScode/repositoty_v1/
+ 1125  ls -la
+ 1126  git clone https://github.com/x4nth055/pythoncode-tutorials.git
+ 1127  ls -la
+ 1128  cd pythoncode-tutorials/
+ 1129  ls -la
+ 1130  git log
+ 1131  code .
+ 1132  cd ..
+ 1133  cd  repo_
+ 1134  cd  repo_first/
+ 1135  ls -la
+ 1136  code .
+ 1137  cd ..
+ 1138  cd repositoty_v1/
+ 1139  ls -la
+ 1140  cd pythoncode-tutorials/
+ 1141  ls -la
+ 1142  cd ..
+ 1143  ls -la
+ 1144  cd pythoncode-tutorials/
+ 1145  cd web-scraping/
+ 1146  cd html-table-extractor/
+ 1147  python html_table_extractor.py https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+ 1148  python html_table_extractor.py https://www.wikiaves.com.br/mapaRegistros_ema
+ 1149  python html_table_extractor.py https://www.wikiaves.com.br/especies.php?t=c&c=3107109
+ 1150  sudo apt update | apt upgrade
+ 1151  sudo apt update | sudo apt upgrade
+ 1152  sudo apt update
+ 1153  sudo apt upgrade
+ 1154  cd Documents/Python_VScode/repo_first/
+ 1155  ls -la
+ 1156  conda activate fungo
+ 1157  conda info
+ 1158  top
+ 1159  pstree -p | mysql
+ 1160  pstree -p | grep mysql
+ 1161  sudo kill 1108
+ 1162  code .
+ 1163  conda activate fungo
+ 1164  cd Dictionary/
+ 1165  python3 history_bash.py 
+ 1166  cd ..
+ 1167  python3 history_bash.py 
+ 1168  cd Documents/Python_VScode/repo_first/
+ 1169  pstree -p | grep mysql
+ 1170  sudo kill 1099
+ 1171  pstree -p | grep mysql
+ 1172  git log
+ 1173  code .
+ 1174  sudo apt update
+ 1175  conda info
+ 1176  conda list
+ 1177  conda activate base
+ 1178  anaconda-navigator 
+ 1179  ls -la
+ 1180  code .
+ 1181  cd Dictionary/
+ 1182  ls -la
+ 1183  python3 history_bash.py 
+ 1184  clear
+ 1185  python3 history_bash.py 
+ 1186  history 
+ 1187  history >> bash_h_ul
+ 1188  ls -la
+ 1189  poweroff
+ 1190  python3 history_bash.py 
+ 1191  cd Documents/Python_VScode/repo_first/Dictionary/
+ 1192  ls -la
+ 1193  code .
+ 1194  ls -la
+ 1195  cd ..
+ 1196  ls -la
+ 1197  sudo cp files_study.py ./Dictionary/
+ 1198  cd Dictionary/
+ 1199  ls -la
+ 1200  poweroff
+ 1201  cd Documents/Python_VScode/repo_first/Dictionary/
+ 1202  ls -la
+ 1203  code .
+ 1204  python3 history_bash.py 
+ 1205  ls -la
+ 1206  mv --help
+ 1207  mv --help
+ 1208  sudo mv -f -v ./estudos_codeacademy.py ~/Documents/Python_VScode/repo_first/
+ 1209  ls -la
+ 1210  git status
+ 1211  python3 history_bash.py 
+ 1212  git branch -u Main
+ 1213  git show
+ 1214  python3 history_bash.py 
+ 1215  git add .
+ 1216  gis status
+ 1217  git status
+ 1218  git branch -u Main
+ 1219  git branch -u Lean
+ 1220  git branch -u Learn
+ 1221  git commit -m "Terminal Bash History project v1.0"
+ 1222  git show
+ 1223  git log
+ 1224  git branch -v
+ 1225  git branch -u Main
+ 1226  python3 history_bash.py 
+ 1227  cd Documents/Python_VScode/repo_first/Dictionary/
+ 1228  code .
+ 1229  git log
+ 1230  cd ..
+ 1231  ls -la
+ 1232  cd THB_project/
+ 1233  ls -la
+ 1234  git init
+ 1235  ls -la
+ 1236  git log
+ 1237  python3 history_bash.py 
+ 1238  git branch -va
+ 1239  git branch info
+ 1240  git info
+ 1241  git status
+ 1242  git branch --hellp
+ 1243  git branch -v
+ 1244  git branch -va
+ 1245  git branch -a
+ 1246  git branch -l
+ 1247  git branch --show-current
+ 1248  code .
+ 1249  ls -la
+ 1250  python3 history_bash.py 
+ 1251  git status -sb
+ 1252  git status -va
+ 1253  git status -v
+ 1254  python3 history_bash.py 
+ 1255  history 
+ 1256  python3 history_bash.py 
+ 1257  cd..
+ 1258  git status
+ 1259  python3 files_teste.py 
+ 1260  git status
+ 1261  git commit -m "User write the files names one by one"
+ 1262  git add ./history_bash.pys
+ 1263  git add ./history_bash.py
+ 1264  git status
+ 1265  git commit -m "User write the files names one by one"
+ 1266  git log
+ 1267  python3 history_bash.py 
+ 1268  git log
+ 1269  git status
+ 1270  git add ./files_comp.txt ./menu.txt ./history_bash.py 
+ 1271  git status 
+ 1272  git commit -m "Input a menu"
+ 1273  git status
+ 1274  git show
+ 1275  git log
+ 1276  python3 history_bash.py 
+ 1277  curl cht.sh/fre
+ 1278  curl cht.sh/f
+ 1279  curl cht.sh/df
+ 1280  df -h
+ 1281  tldr:df
+ 1282  tldr
+ 1283  df i
+ 1284  df -i
+ 1285  python3 history_bash.py 
+ 1286  ls -la
+ 1287  python3 history_bash.py 
+ 1288  git status
+ 1289  git add ./history_bash.py ./menu ./menu_save.txt 
+ 1290  git add ./history_bash.py ./menu.txt ./menu_save.txt 
+ 1291  git status
+ 1292  git commit -m "Add save file options"
+ 1293  git log
+ 1294  git reset --soft HEAD~1
+ 1295  git log
+ 1296  git commit -m "Add save file options"
+ 1297  git log
+ 1298  git branch v
+ 1299  git branch -v
+ 1300  git branch --help
+ 1301  git branch -d v
+ 1302  git branch Main
+ 1303  git branch -v
+ 1304  git branch --help
+ 1305  git branch Learn Main
+ 1306  python3 history_bash.py 
+ 1307  git branch -u Main
+ 1308  git branch -v
+ 1309  git branch -u Main
+ 1310  git branch -v
+ 1311  git log
+ 1312  python3 history_bash.py 
+ 1313  git remote add thb_project https://github.com/FabioSBE/THB_project.git
+ 1314  git branch -va
+ 1315  git remote add origin https://github.com/FabioSBE/THB_project.git
+ 1316  git remote -va
+ 1317  git remote -v
+ 1318  git remote remove origin 
+ 1319  git remote -v
+ 1320  python3 history_bash.py 
+ 1321  cd Documents/Python_VScode/repo_first/
+ 1322  ls -la
+ 1323  cd ..
+ 1324  ls -la
+ 1325  cd THB_project/
+ 1326  ls -la
+ 1327  git status
+ 1328  code .
+ 1329  python3 history_bash.py 
+ 1330  free -m
+ 1331  free -ms
+ 1332  free -g
+ 1333  free -m
+ 1334  history
+ 1335  git log
+ 1336  git remote -v
+ 1337  git branch -va
+ 1338  git push -u thb_project Learn
+ 1339  git fetch
+ 1340  git branch -va
+ 1341  git remote -v
+ 1342  git log
+ 1343  poweroff
+ 1344  cd Documents/Python_VScode/repo_first/
+ 1345  ls -la
+ 1346  cd ..
+ 1347  ls -la
+ 1348  cd THB_project/
+ 1349  ls -la
+ 1350  git log
+ 1351  git remote -v
+ 1352  git branch -va
+ 1353  git branch -r remotes/thb_project/Learn
+ 1354  python3 history_bash.py 
+ 1355  git branch --help
+ 1356  git branch -c remotes/thb_project/Learn
+ 1357  git branch -va
+ 1358  git branch --help
+ 1359  git branch -d remotes/thb_project/Learn
+ 1360  git branch -va
+ 1361  git branch -d remotes/thb_project/Learn
+ 1362  git remote --help
+ 1363  git remote -v
+ 1364  git push origin --delete main
+ 1365  git push origin --delete Learn
+ 1366  git push origin --delete remotes/thb_project/Learn
+ 1367  git branch -rd thb_project/main 
+ 1368  git branch -rd thb_project/Learn
+ 1369  git branch -va
+ 1370  git branch -r Main
+ 1371  git log
+ 1372  git branch -D Main
+ 1373  git log
+ 1374  git branch -u Main
+ 1375  git branch Main
+ 1376  git branch -va
+ 1377  git checkout -b Main
+ 1378  git branch -D Main
+ 1379  git checkout -b Main
+ 1380  git branch -va
+ 1381  git branch -D Learn
+ 1382  git log
+ 1383  git status
+ 1384  git checkout -m main
+ 1385  git checkout -b main
+ 1386  git checkout -D Main
+ 1387  git branch -D Main
+ 1388  git log
+ 1389  git fetch --help
+ 1390  git remote -va
+ 1391  git remote -
+ 1392  git remote -v
+ 1393  git fetch --help
+ 1394  history
+ 1395  git push --help
+ 1396  git push -u main thb_project
+ 1397  git log
+ 1398  git push -u main thb_project
+ 1399  git push -a main thb_project
+ 1400  git push -f main thb_project
+ 1401  git remote -v
+ 1402  git fetch 
+ 1403  git fetch --help
+ 1404  curl cht.sh/git fetch
+ 1405  curl cht.sh/git push
+ 1406  git fetch --all
+ 1407  git branch -va
+ 1408  git push -u main main
+ 1409  git push -u main thb_project/main 
+ 1410  git push -u main thb_project
+ 1411  git branch -rd thb_project/main 
+ 1412  git branch -va
+ 1413  git remote -v
+ 1414  git push main thb_project
+ 1415  git pull --rebase
+ 1416  git status
+ 1417  git log
+ 1418  history
+ 1419  git reset --soft HEAD~1
+ 1420  git log
+ 1421  git status
+ 1422  git rm uniao.txt 
+ 1423  git status
+ 1424  git add .
+ 1425  git commit -m "Add option to save the results"
+ 1426  git status
+ 1427  git branch -va
+ 1428  git remote -v
+ 1429  git push -u main thb_project
+ 1430  git config user.name 
+ 1431  git pull rebase
+ 1432  git pull --rebase
+ 1433  git pull thb_project main
+ 1434  git log
+ 1435  git push thb_project main
+ 1436  git pull thb_project main
+ 1437  git config pull.rebase false
+ 1438  git config pull.rebase true
+ 1439  git config pull.ff only
+ 1440  git pull thb_project main
+ 1441  git pull thb_project main --rebase 
+ 1442  git pull thb_project main
+ 1443  git push thb_project main
+ 1444  git log
+ 1445  poweroff
+ 1446  cd ..
+ 1447  cd tmp/
+ 1448  sudo mkdir testes
+ 1449  cd testes/
+ 1450  code .
+ 1451  cd
+ 1452  cd Documents/Python_VScode/
+ 1453  ls
+ 1454  python3 teste.py 
+ 1455  source /home/fungo/anaconda3/bin/activate fungo
+ 1456  cd Documents/Python_VScode/
+ 1457  ls
+ 1458  python3 teste.py 
+ 1459  sudo apt update
+ 1460  sudo apt upgrade
+ 1461  ls =la
+ 1462  cd Documents/Python_VScode/THB_project/
+ 1463  ls -la
+ 1464  code .
+ 1465  cd ..
+ 1466  cd repositoty_v1/
+ 1467  ls -la
+ 1468  git clone https://github.com/capyvara/tse.git
+ 1469  ls -la
+ 1470  cd tse/
+ 1471  ls -la
+ 1472  git log
+ 1473  code .
+ 1474  conda activate fungo
+ 1475  python3 teste.py
+ 1476  conda activate fungo
+ 1477  python3 re.py
+ 1478  ls -la
+ 1479  conda activate fungo
+ 1480  cnoda lista
+ 1481  cnoda list
+ 1482  conda list
+ 1483  conda list | grep tika
+ 1484  conda list | grep tornado
+ 1485  conda info 
+ 1486  conda search
+ 1487  conda search tika
+ 1488  conda activate base
+ 1489  conda list | grep tika
+ 1490  conda activate fungo
+ 1491  conda activate fungo
+ 1492  cd Documents/Python_VScode/
+ 1493  ls
+ 1494  cd THB_project/
+ 1495  ls -la
+ 1496  python3 history_bash.py 
+ 1497  code .
+ 1498  cd ..
+ 1499  ls
+ 1500  cd repo_first/
+ 1501  ls -la
+ 1502  code .
+ 1503  ls
+ 1504  cd ,,,]
+ 1505  ls =la
+ 1506  ls -la
+ 1507  cd ..
+ 1508  ls -la
+ 1509  cd repositoty_v1/
+ 1510  ls -la
+ 1511  cd batlleship/
+ 1512  ls -la
+ 1513  code .
+ 1514  cd ..
+ 1515  ls -la
+ 1516  gedit .python_history 
+ 1517  gedit .mycli-history 
+ 1518  cd .mysql/
+ 1519  ls -la
+ 1520  cd ..
+ 1521  ls -la
+ 1522  gedit .bash_logout 
+ 1523  python3 csv_read.py 
+ 1524  cd Documents/Python_VScode/
+ 1525  ls -la
+ 1526  cd testes/
+ 1527  ls -la
+ 1528  cd files/
+ 1529  ls
+ 1530  cd files/
+ 1531  ls
+ 1532  cd CSV/
+ 1533  ls
+ 1534  cd ..
+ 1535  ls -la
+ 1536  code .
+ 1537  python3 web_view.py
+ 1538  python3 web_view.py 
+ 1539  python3 web_view.py
+ 1540  cd Documents/Python_VScode/
+ 1541  ls
+ 1542  cd testes/
+ 1543  ls
+ 1544  code .
+ 1545  conda activate fungo
+ 1546  python3 web_view.py 
+ 1547  conda list
+ 1548  conda list | grep BeautifulSoup
+ 1549  conda base list | grep BeautifulSoup
+ 1550  conda activate base
+ 1551  conda list | grep BeautifulSoup
+ 1552  conda activate fungo
+ 1553  conda install 
+ 1554  conda install BeautifulSoup
+ 1555  conda install beautifulSoup
+ 1556  conda install beautifulsoup
+ 1557  conda list
+ 1558  conda activate base
+ 1559  conda list
+ 1560  conda activate fungo
+ 1561  conda install bs4
+ 1562  conda list
+ 1563  cd Documents/Python_VScode/testes/
+ 1564  code .
+ 1565  cd ..
+ 1566  cd THB_project/
+ 1567  ls
+ 1568  python3 history_bash.py 
+ 1569  poweroff
+ 1570  cd Documents/Python_VScode/testes/
+ 1571  code .
+ 1572  cd files/
+ 1573  cd code3/
+ 1574  python3 json1.py 
+ 1575  python3 json2.py 
+ 1576  python3 socket1.py 
+ 1577  python3 urllinks.py 
+ 1578  python3 urllinks2.py 
+ 1579  python3 urllink2.py 
+ 1580  python3 urllink.py 
+ 1581  python3 urllinks.py 
+ 1582  cd Documents/Python_VScode/testes/
+ 1583  code .
+ 1584  telnet data.pr4e.org 80
+ 1585  reboot
+ 1586  python urllinks.py 
+ 1587  ping google.com
+ 1588  python urllinks.py 
+ 1589  cd Documents/Python_VScode/THB_project/
+ 1590  ls 
+ 1591  python3 history_bash.py 
+ 1592  ls
+ 1593  gedit comandos.txt 
+ 1594  cd ..
+ 1595  cd testes/
+ 1596  code .
+ 1597  ip addr show
+ 1598  netstat -pnltu
+ 1599  ping google.com
+ 1600  netstat -pnltu
+ 1601  ifconfig 
+ 1602  python3 urllinks.py 
+ 1603  ifconfig 
+ 1604  python3 urllinks.py 
+ 1605  cd ..
+ 1606  python3 regr_exp.py 
+ 1607  ls
+ 1608  cd files/
+ 1609  cd code3/
+ 1610  python3 urllinks.py 
+ 1611  [200~        fdasfsd
+ 1612  ~[
+ 1613  cd ..
+ 1614  conda activate fungo
+ 1615  conda activate fungo
+ 1616  python3 main.py 
+ 1617  git log
+ 1618  git status
+ 1619  git add .
+ 1620  git commit -m "Add save results in a file"
+ 1621  python3 main.py 
+ 1622  conda activate base
+ 1623  conda activate fungo
+ 1624  /home/fungo/anaconda3/envs/fungo/bin/python
+ 1625  cd files/
+ 1626  cd code3/
+ 1627  python3 json1.py 
+ 1628  python3 json2.py 
+ 1629  python3 json1.py 
+ 1630  python3 json2.py 
+ 1631  conda activate fungo
+ 1632  python3 main.py 
+ 1633  cd Documents/Python_VScode/testes/
+ 1634  code .
+ 1635  cd ..
+ 1636  cd Scrap_Wikiaves/
+ 1637  ls
+ 1638  git init
+ 1639  git status
+ 1640  git add .
+ 1641  git commit -m "First version without save files"
+ 1642  git log
+ 1643  code .
+ 1644  cd ..
+ 1645  cd testes/
+ 1646  code .
+ 1647  cd ..
+ 1648  ls 
+ 1649  cd repositoty_v1/
+ 1650  ls -la
+ 1651  cd ..
+ 1652  cd repo_first/
+ 1653  ls -la
+ 1654  code .
+ 1655  cd ..
+ 1656  cd THB_project/
+ 1657  code .
+ 1658  cd ..
+ 1659  ls
+ 1660  cd Scrap_Wikiaves/
+ 1661  ls -la
+ 1662  git status
+ 1663  git log
+ 1664  code .
+ 1665  cd ..
+ 1666  cd testes/
+ 1667  code .
+ 1668  cd files/code3/
+ 1669  python3 geojson.py 
+ 1670  cd Documents/Python_VScode/testes/
+ 1671  code .
+ 1672  conda activate fungo
+ 1673  python3 main.py 
+ 1674  cd Documents/Python_VScode/
+ 1675  ls
+ 1676  cd repositoty_v1/
+ 1677  ls
+ 1678  git clone https://github.com/adviksinghania/arithmetic-formatter.git
+ 1679  cd arithmetic-formatter/
+ 1680  code .
+ 1681  poweroff
+ 1682  cd Documents/Python_VScode/
+ 1683  ls
+ 1684  cd THB_project/
+ 1685  ls
+ 1686  python3 history_bash.py 
+ 1687  conda activate fungo
+ 1688  python3 main.py 
+ 1689  ls -la
+ 1690  sudo chmod 777 main.py 
+ 1691  sudo chmod 777 time_calculator.py 
+ 1692  ls
+ 1693  python3 main.py 
+ 1694  cd Documents/Python_VScode/
+ 1695  ls
+ 1696  sudo mk -d ./Time_Calculator_freecodecamp
+ 1697  sudo mkdir -d ./Time_Calculator_freecodecamp
+ 1698  sudo mkdir ./Time_Calculator_freecodecamp
+ 1699  ls
+ 1700  cd ./Time_Calculator_freecodecamp/
+ 1701  touch main.py
+ 1702  sudo touch main.py
+ 1703  ls
+ 1704  touch time_calculator.py
+ 1705  sudo touch time_calculator.py
+ 1706  ls la
+ 1707  ls -la
+ 1708  git init
+ 1709  sudo git init
+ 1710  ls -la
+ 1711  info chmod
+ 1712  ls 
+ 1713  cd ..
+ 1714  sudo chmod 777 ./Time_Calculator_freecodecamp/
+ 1715  ls -la
+ 1716  cd Time_Calculator_freecodecamp/
+ 1717  ls -la
+ 1718  git log
+ 1719  git status
+ 1720  git config --global --add safe.directory /home/fungo/Documents/Python_VScode/Time_Calculator_freecodecamp
+ 1721  git status
+ 1722  code .
+ 1723  conda activate fungo
+ 1724  /home/fungo/anaconda3/envs/fungo/bin/python /home/fungo/Documents/Python_VScode/Time_Calculator_freecodecamp/main.py
+ 1725  conda activate fungo
+ 1726  cd Documents/Python_VScode/
+ 1727  ls
+ 1728  cd Time_Calculator_freecodecamp/
+ 1729  code .
+ 1730  cd ..
+ 1731  ls -la
+ 1732  sudo mkdir AssemblyAI
+ 1733  ls -la
+ 1734  sudo chmod 777 AssemblyAI/
+ 1735  ls -la
+ 1736  cd AssemblyAI/
+ 1737  code .
+ 1738  pip install requests
+ 1739  brew
+ 1740  pip install assemblyai/assemblyai
+ 1741  pip install assemblyai
+ 1742  ls -la
+ 1743  type AUd
+ 1744  filetype transcription.py 
+ 1745  file transcription.py 
+ 1746  file AUD-20220908-WA0021 
+ 1747  poweroff
+ 1748  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party1.py
+ 1749  conda activate base
+ 1750  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party1.py
+ 1751  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party.py
+ 1752  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party2.py
+ 1753  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party3.py
+ 1754  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party4.py
+ 1755  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party5.py
+ 1756  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/party6.py
+ 1757  conda activate fungo
+ 1758  /home/fungo/anaconda3/envs/fungo/bin/python /home/fungo/Documents/Python_VScode/FreeCodeCamp/Buged_App/budget.py
+ 1759  /home/fungo/anaconda3/envs/fungo/bin/python /home/fungo/Documents/Python_VScode/FreeCodeCamp/Buged_App/main.py
+ 1760  cd Documents/Python_VScode/
+ 1761  ls -la
+ 1762  cd THB_project/
+ 1763  ls -la
+ 1764  history >> ubuntu_history1.txt
+ 1765  ls -la
+ 1766  cd ..
+ 1767  ls -la
+ 1768  cd tes
+ 1769  cd testes/
+ 1770  ls -la
+ 1771  code .
+ 1772  cd ..
+ 1773  ls -la
+ 1774  info checkout
+ 1775  checkout help
+ 1776  ls
+ 1777  cd AssemblyAI/
+ 1778  ls
+ 1779  cat transcription.py 
+ 1780  cd ..
+ 1781  ls
+ 1782  cd __pycache__/
+ 1783  ls -la
+ 1784  cd ..
+ 1785  ls -la
+ 1786  cd testes/
+ 1787  ls 
+ 1788  cat web_view.py 
+ 1789  cd ..
+ 1790  ls -la
+ 1791  cd T
+ 1792  cd Time_Calculator_freecodecamp/
+ 1793  ls -lal
+ 1794  python3 main.py 
+ 1795  cd ..
+ 1796  ls -la
+ 1797  sudo mkdir -d Buged_App
+ 1798  sudo mkdir Buged_App
+ 1799  mkdir -h
+ 1800  mkdir help
+ 1801  mkdir --help
+ 1802  ls -la
+ 1803  mkdir FreeCodeCamp
+ 1804  cd FreeCodeCamp/
+ 1805  cd ..
+ 1806  mv ./Buged_App/ ./FreeCodeCamp/
+ 1807  sudo mv ./Buged_App/ ./FreeCodeCamp/
+ 1808  cd FreeCodeCamp/
+ 1809  ls -la
+ 1810  cd Buged_App/
+ 1811  ls -la
+ 1812  code .
+ 1813  chmod --help
+ 1814  cd ..
+ 1815  ls -la
+ 1816  cd ..
+ 1817  ls -la
+ 1818  sudo chmod 744 -R ./FreeCodeCamp/
+ 1819  ls -la
+ 1820  cd FreeCodeCamp/
+ 1821  ls -la
+ 1822  cd Buged_App/
+ 1823  ls la
+ 1824  ls -la
+ 1825  cd Buged_App/
+ 1826  cd ...
+ 1827  cd ..
+ 1828  sudo chmod 764 -R ./FreeCodeCamp/
+ 1829  ls -la
+ 1830  cd FreeCodeCamp/Buged_App/
+ 1831  sudo cd FreeCodeCamp/Buged_App/
+ 1832  sudo chmod 766 -R ./FreeCodeCamp/
+ 1833  cd FreeCodeCamp/Buged_App/
+ 1834  sudo chmod 777 -R ./FreeCodeCamp/
+ 1835  ls -la
+ 1836  cd FreeCodeCamp/
+ 1837  cd ..
+ 1838  cd FreeCodeCamp/Buged_App/
+ 1839  ls -la
+ 1840  code .
+ 1841  ls -a
+ 1842  ls -la
+ 1843  cd ..
+ 1844  ls -la
+ 1845  cd Buged_App/
+ 1846  ls -la
+ 1847  cd
+ 1848  ipconig
+ 1849  ipconigifconfig
+ 1850  ifconfig
+ 1851  top
+ 1852  sudo mysql -h 192.168.0.141 -u dani -p
+ 1853  mysql -h
+ 1854  cd Documents/Python_VScode/THB_project/
+ 1855  ls
+ 1856  python3 history_bash.py 
+ 1857  mysql -u root -p
+ 1858  source /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/venv/bin/activate
+ 1859  /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/venv/bin/python /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/other_app.py
+ 1860  ifconfig 
+ 1861  ip addr
+ 1862  cd Documents/Python_VScode/
+ 1863  ls -la
+ 1864  sudo mkdir GPT3
+ 1865  ls -la
+ 1866  sudo chmod 777 ./GPT3/
+ 1867  cd GPT3/
+ 1868  ls -la
+ 1869  code .
+ 1870  conda activate fungo
+ 1871  pip install openai
+ 1872  pip install openai-secret-manager
+ 1873  git clone https://github.com/openai/openai-quickstart-python.git
+ 1874  ls -la
+ 1875  cd openai-quickstart-python/
+ 1876  ls -la
+ 1877  cat README.md 
+ 1878  cat requirements.txt 
+ 1879  ls -la
+ 1880  gedit README.md 
+ 1881  python -m venv venv
+ 1882  gedit README.md 
+ 1883  . venv/bin/activate
+ 1884  pip install -r requirements.txt
+ 1885  cp .env.example .env
+ 1886  ls -la
+ 1887  cat .env
+ 1888  cat .env.example 
+ 1889  git info
+ 1890  git log
+ 1891  nano .env
+ 1892  ls -la
+ 1893  cat .env
+ 1894  flask run
+ 1895  ls -la
+ 1896  cat README.md 
+ 1897  ls -la
+ 1898  flask run
+ 1899  ls -la
+ 1900  code .
+ 1901  flask run
+ 1902  conda activate base
+ 1903  cd Documents/Python_VScode/
+ 1904  ls -la
+ 1905  cd testes/
+ 1906  ls -la
+ 1907  cd ..
+ 1908  ls
+ 1909  ls -a
+ 1910  ls -la
+ 1911  cd repositoty_v1/
+ 1912  ls -la
+ 1913  cd ..
+ 1914  cd repo_first/
+ 1915  ls -la
+ 1916  code .
+ 1917  ls -la
+ 1918  cd ..
+ 1919  ls -la
+ 1920  cd testes/
+ 1921  ls -la
+ 1922  code .
+ 1923  cd ..
+ 1924  ls -la
+ 1925  cd GPT3/
+ 1926  code .
+ 1927  ls -la
+ 1928  cd openai-quickstart-python/
+ 1929  ls -la
+ 1930  code .
+ 1931  top
+ 1932  free -pi
+ 1933  free -p
+ 1934  free
+ 1935  ptree
+ 1936  tree
+ 1937  pstree -pi
+ 1938  pstree -p
+ 1939  pstree -p | grep mysql
+ 1940  sudo kill 1115
+ 1941  pstree -p | grep mysql
+ 1942  sudo kill 1115
+ 1943  pstree -p | grep mysql
+ 1944  sudo kill 1115
+ 1945  pstree -p | grep mysql
+ 1946  pstree -p
+ 1947  ls -la
+ 1948  cat README.md 
+ 1949  . venv/bin/activate
+ 1950  code .
+ 1951  source /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/venv/bin/activate
+ 1952  /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/venv/bin/python /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/other_app.py
+ 1953  source /home/fungo/Documents/Python_VScode/GPT3/openai-quickstart-python/venv/bin/activate
+ 1954  conda activate base
+ 1955  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/json1.py
+ 1956  /home/fungo/anaconda3/bin/python /home/fungo/Documents/Python_VScode/testes/files/code3/json2.py
+ 1957  cd ..
+ 1958  cd
+ 1959  cd Documents/Python_VScode/
+ 1960  ls
+ 1961  la
+ 1962  ls
+ 1963  cd GPT3/
+ 1964  ls -la
+ 1965  cd openai-quickstart-python/
+ 1966  ls -la
+ 1967  code .
+ 1968  cd ..
+ 1969  ls -la
+ 1970  cd teste
+ 1971  cd testes/
+ 1972  ls -la
+ 1973  cd ..
+ 1974  ls -la
+ 1975  cd FreeCodeCamp/
+ 1976  ls -la
+ 1977  cd ..
+ 1978  ls -la
+ 1979  cd repositoty_v1/1
+ 1980  cd repositoty_v1/
+ 1981  ls -a
+ 1982  cd ..
+ 1983  ls -la
+ 1984  cd FreeCodeCamp/
+ 1985  ls -la
+ 1986  cd Buged_App/
+ 1987  ls -la
+ 1988  cd ..
+ 1989  ls -la
+ 1990  cd testes/
+ 1991  ls -la
+ 1992  cd files/
+ 1993  ls -la
+ 1994  cd ..
+ 1995  code .
+ 1996  conda activate fungo
+ 1997  /home/fungo/anaconda3/envs/fungo/bin/python /home/fungo/Documents/Python_VScode/CSV_loader/csv_laoder.py
+ 1998  cd Documents/Python_VScode/
+ 1999  cd my_project_Django/
+ 2000  conda info -e
+ 2001  conda info --envs
+ 2002  conda env remove --name pandas
+ 2003  conda info --envs
+ 2004  conda create -n django
+ 2005  conda info --envs
+ 2006  conda activate django
+ 2007  clear
+ 2008  pip install django
+ 2009  django -v
+ 2010  python3
+ 2011  django-admin startproject my_first_project
+ 2012  ls -la
+ 2013  cd my_first_project/
+ 2014  ls -la
+ 2015  code .
+ 2016  clear
+ 2017  ls -la
+ 2018  python manage.py startapp contas
+ 2019  python3 manage.py startapp contas
+ 2020  ls -la
+ 2021  python3 manage.py migrate
+ 2022  python3 manage.py runserver
+ 2023  python3 manage.py createsuperuser
+ 2024  python3 manage.py runserver
+ 2025  python3 manage.py makemigrations
+ 2026  python3 manage.py runserver
+ 2027  python3 manage.py migrate
+ 2028  python3 manage.py runserver
+ 2029  python3 manage.py makemigrations
+ 2030  python3 manage.py migrate
+ 2031  python3 manage.py runserver
+ 2032  python3 manage.py makemigrations
+ 2033  python3 manage.py migrate
+ 2034  python3 manage.py runserver
+ 2035  python3 manage.py makemigrations
+ 2036  python3 manage.py migrate
+ 2037  python3 manage.py runserver
+ 2038  python3 manage.py makemigrations
+ 2039  python3 manage.py migrate
+ 2040  python3 manage.py runserver
+ 2041  python3 manage.py makemigrations
+ 2042  python3 manage.py migrate
+ 2043  python3 manage.py runserver
+ 2044  python3 manage.py makemigrations
+ 2045  python3 manage.py migrate
+ 2046  python3 manage.py runserver
+ 2047  python3 manage.py collectstatic
+ 2048  python manage.py collectstatic --clear
+ 2049  python3 manage.py collectstatic --clear
+ 2050  python3 manage.py collectstatic
+ 2051  python3 manage.py runserver
+ 2052  pip install Jinja2
+ 2053  python3 manage.py runserver
+ 2054  ls -la
+ 2055  code .
+ 2056  python3 manage.py runserver
+ 2057  python3 manage.py createsuperuser
+ 2058  python3 manage.py runserver
+ 2059  cd ..
+ 2060  ls -l
+ 2061  cd ..
+ 2062  la -la
+ 2063  cd THB_project/
+ 2064  ls -la
+ 2065  history >> ubuntu_history2.txt
