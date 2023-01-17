@@ -1,3 +1,0 @@
-ubuntu_history.txt
-h_bash.txt
-bash_h_ul.txt

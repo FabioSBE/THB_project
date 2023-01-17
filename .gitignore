@@ -1,0 +1,13 @@
+# ignore all files in inputs folder
+inputs/*
+
+# ignore all files in commands folder
+commands/*
+
+# ignore all files in outputs folder
+outputs/*
+
+# but don't ignore the folder itself
+!inputs/
+!commands/
+!outputs/
