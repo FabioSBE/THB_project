@@ -7,7 +7,6 @@ while loop != '6':
     loop = a.menu(loop)
     if loop == '1':
         final_list = a.import_files()
-        # print (final_list)
         c_dict_all = a.cont_com(final_list)
     elif loop == '2':
         for x,y in c_dict_all.items():

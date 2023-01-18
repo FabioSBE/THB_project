@@ -1,6 +1,5 @@
 import os
-
-path = "./inputs/" 
+# import json
 
 c_dict_all = {}
 c_dict_most = {}
@@ -45,30 +44,21 @@ def main_com(f2):
 #Import list of files in txt format
 def import_files():
     try:
-        for filename in os.listdir(path):
-            listf1 = []
+        final_set = set()
+        for filename in os.listdir("./inputs/"):
             if filename.endswith(".txt"):
-                with open(os.path.join(path, filename)) as file:
-                    # union_com(file)
-                    for line in file:
-                        line = line.rstrip()
-                        listf1.append(line)
-                    
-                    for v in listf1:
-                        if v not in final_list:
-                            final_list.append(v)
+                with open(os.path.join("./inputs/", filename)) as file:
+                    file_set = set(line.rstrip() for line in file)
+                    final_set = final_set.union(file_set)
+        final_list = sorted(list(final_set))
         print ("\nLoad complete!!\n")
     except:
         print ("\nFiles not found!\n")
-                
 
-    y = sorted (final_list)
-    ft = open("./commands/All.txt", 'w') 
-    for a in y:
-        ft.write(a)
-        ft.write('\n')
-        
-    return y
+    with open("./commands/All.txt", 'w') as ft:
+        ft.writelines('\n'.join(final_list))
+    
+    return final_list
                 
 #Print options menu
 def menu(l):
@@ -81,12 +71,11 @@ def menu(l):
 #Save dictionaries to files
 def output_files (dicionario):
     path = "./outputs/"
-    fteste = open(os.path.join(path, input("\nType a file name: ")), 'w')
-    for x,y in dicionario.items():
-        fteste.write(x)
-        fteste.write(',')
-        fteste.write(str(y))
-        fteste.write('\n')
+    file_name = input("\nType a file name: ")
+    with open(os.path.join(path, file_name), 'w') as fteste:
+        for x,y in dicionario.items():
+            fteste.write(f'{x},{y}\n')
+            # json.dump(dicionario, fteste)
 
 
     
