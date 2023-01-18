@@ -77,5 +77,9 @@ def output_files (dicionario):
             fteste.write(f'{x},{y}\n')
             # json.dump(dicionario, fteste)
 
+def print_commands(dicionario):
+    for x,y in dicionario.items():
+                print (x, ' - ', y)
+
 
     
